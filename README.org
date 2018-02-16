@@ -1,0 +1,5 @@
+* Overview
+
+  Allows you to highlight various regular expressions in a variety of colors.  Useful for studying log files, or if you
+  want to prepare some text to share with others (say, via this highlighting module and htmlize).
+  
